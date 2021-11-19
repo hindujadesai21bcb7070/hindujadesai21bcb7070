@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @hindujadesai21bcb7070
-- 👀 I’m interested in singing
-- 🌱 I’m currently learning Csbs
-- 💞️ I’m looking to collaborate on csi chapter 
-- 📫 How to reach me ...
-
-<!---
-hindujadesai21bcb7070/hindujadesai21bcb7070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1  # Name : hindujadesai-21bcb7070
+2  #### Task status :
+3  -[] Day 1 HTML Introduction - HTML Attributes
+4  -[] Day 2 HTML Headings - HTML CSS
+5  -[] Day 3 HTML Links - HTML Lists
+6  -[] Day 4 HTML Block & Inline - HTML Responsive 
+7  -[] Day 5 HTML Forms and CSS Syntax - CSS Padding
+8  -[] Day 6 CSS Position,Navigation,Dropdown,Forms,Website Layout 
